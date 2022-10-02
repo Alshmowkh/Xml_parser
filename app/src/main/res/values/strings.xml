@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xml_parser</string>
+    <string name="CreateFile">Create File</string>
+    <string name="Excel">Excel File</string>
+    <string name="file"> File</string>
+
+</resources>
